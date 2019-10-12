@@ -123,3 +123,6 @@ Your text must be separated by space, even punctuation.And, your text should lon
 ## Reference
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 
+## Funding notice and disclaimer
+
+This material is partially based upon work supported by the National Science Foundation under Grant Number 1618336. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
